@@ -7,6 +7,8 @@
 *.obj
 *.elf
 
+ignore-me/
+
 # Linker output
 *.ilk
 *.map
