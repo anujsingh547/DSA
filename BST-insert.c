@@ -1,4 +1,5 @@
-// Binary Search Tree operations in C
+// THERE IS A CHANGE IN THE BRANCH , THIS IS THE VARIANCE BRANCH 
+//IF THE CODE VARYING AUTHORITY APPROVES , IT SHALL BE MERGED WITH THE MAIN BRANCH
 
 #include <stdio.h>
 #include <stdlib.h>
